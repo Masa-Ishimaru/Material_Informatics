@@ -10,4 +10,4 @@ Includes:
 ![sample_generation](https://user-images.githubusercontent.com/50325966/99892016-9b3a7600-2cb3-11eb-94e6-a8606d108f39.jpg)
 
 - Backward prediction and screening - Combine all process to find solution --- allows multiple targets.
-![multi_target_prediction](https://user-images.githubusercontent.com/50325966/99897769-b4591c00-2cdf-11eb-8443-a6ab20ccd64e.jpg)
+![multi_target_prediction](https://user-images.githubusercontent.com/50325966/99897852-57aa3100-2ce0-11eb-930a-c72f7b2e5754.jpg)

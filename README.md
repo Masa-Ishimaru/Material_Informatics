@@ -6,4 +6,7 @@ Includes:
 - Regression Models - Gaussian process, emsembles, etc. --- scripts to use better kernel or hyperparameters.
 ![regression_models](https://user-images.githubusercontent.com/50325966/99891931-b1940200-2cb2-11eb-9180-22c1764a4aee.jpg)
 
-- Backward prediction
+- Random sample generation - Brute force, and Gaussian mixture model --- with adjustment of total amount
+![sample_generation](https://user-images.githubusercontent.com/50325966/99892016-9b3a7600-2cb3-11eb-94e6-a8606d108f39.jpg)
+
+- Backward prediction and screening

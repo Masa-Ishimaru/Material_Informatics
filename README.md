@@ -12,3 +12,5 @@ Includes:
 
 - Backward prediction and screening - Combine all process to find solution --- allows multiple targets.
 ![multi_target_prediction](https://user-images.githubusercontent.com/50325966/99897852-57aa3100-2ce0-11eb-930a-c72f7b2e5754.jpg)
+
+- Automatic outlier detection - Very powerful tool to improve performance of regression models. Thank you again Kaneko sensei Meiji University. ( https://datachemeng.com/outlier_samples_detectionc_python/ )

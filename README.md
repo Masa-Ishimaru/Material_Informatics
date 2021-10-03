@@ -12,5 +12,7 @@ Includes:
 
 - Backward prediction and screening - Combine all process to find solution --- allows multiple targets and show solution reliability as circle sized.
 ![20211003_composition_solution](https://user-images.githubusercontent.com/50325966/135735972-e69f7327-7e05-4b72-9404-81a7957f0fea.jpg)
+  Verify if standard deviation truely reflects dot size (large means small deviation)
+![20211003_display_reliability_in_BPR_model](https://user-images.githubusercontent.com/50325966/135736020-6a2564e6-90a4-4e5a-9b58-a830a78f364d.jpg)
 
 - Automatic outlier detection - Powerful tool to improve performance of regression models. Thank you again Kaneko sensei Meiji University. ( https://datachemeng.com/outlier_samples_detectionc_python/ )

@@ -10,7 +10,7 @@ Includes:
 - Random sample generation - Brute force, and Gaussian mixture model --- with specific restrictions.
 ![GMM_sample](https://user-images.githubusercontent.com/50325966/99898105-6eea1e00-2ce2-11eb-8453-27a278770f29.jpg)
 
-- Backward prediction and screening - Combine all process to find solution --- allows multiple targets.
-![multi_target_prediction](https://user-images.githubusercontent.com/50325966/99897852-57aa3100-2ce0-11eb-930a-c72f7b2e5754.jpg)
+- Backward prediction and screening - Combine all process to find solution --- allows multiple targets and show solution reliability as circle sized.
+![20211003_composition_solution](https://user-images.githubusercontent.com/50325966/135735972-e69f7327-7e05-4b72-9404-81a7957f0fea.jpg)
 
 - Automatic outlier detection - Powerful tool to improve performance of regression models. Thank you again Kaneko sensei Meiji University. ( https://datachemeng.com/outlier_samples_detectionc_python/ )
